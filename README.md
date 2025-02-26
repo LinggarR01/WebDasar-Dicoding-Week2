@@ -14,15 +14,15 @@ Proyek ini merupakan tugas akhir dari pembelajaran **Dasar Pemrograman Web** di 
 - **JavaScript** untuk interaktivitas
 
 ## 📂 Struktur Folder
-📁 WebDasar-Dicoding-Week2
-├── 📄 index.html
-├── 📁 styles/
-    🎨 styles.css
-├── 📁 script/
-    └── 📜 script.js
-├── 📁 img/
-    └── 📜redcrystalgem.jpg
-    └── 📜reddjeww.jpg
-    └── 📜redgem-logo.jpg
-    └── 📜redjew.jpg
-    └── 📜remaluxe.jpg
+📁 WebDasar-Dicoding-Week2  
+├── 📄 index.html  
+├── 📁 styles/  
+│   └── 🎨 styles.css  
+├── 📁 script/  
+│   └── 📜 script.js  
+├── 📁 img/  
+│   ├── 🖼️ redcrystalgem.jpg  
+│   ├── 🖼️ reddjeww.jpg  
+│   ├── 🖼️ redgem-logo.jpg  
+│   ├── 🖼️ redjew.jpg  
+│   └── 🖼️ remaluxe.jpg  
